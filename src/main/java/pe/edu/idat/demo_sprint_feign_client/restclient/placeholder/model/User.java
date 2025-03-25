@@ -1,5 +1,6 @@
 package pe.edu.idat.demo_sprint_feign_client.restclient.placeholder.model;
 
+
 public class User {
     private Long id;
     private String name;
